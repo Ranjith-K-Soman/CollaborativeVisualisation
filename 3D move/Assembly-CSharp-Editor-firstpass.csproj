@@ -77,26 +77,20 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
@@ -106,6 +100,12 @@
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>F:/Git_repos/CollaborativeVisualisation/3D move/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
